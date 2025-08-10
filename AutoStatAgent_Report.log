@@ -1,0 +1,5244 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.8.9)  10 AUG 2025 22:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**D:/AutoStatAgent/AutoStatAgent_Report.tex
+(D:/AutoStatAgent/AutoStatAgent_Report.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/06/06 v2.1g lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/06/06 v2.1g Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpageclassi
+c.sty
+Package: lastpageclassic 2025/06/06 v2.1g Refers to last page's name (HMM; JPG)
+
+) 
+))
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks20
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count198
+\float@exts=\toks21
+\float@box=\box51
+\@float@everytoks=\toks22
+\@floatcapt=\box52
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 18
+.
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box53
+)
+No file AutoStatAgent_Report.aux.
+\openout1 = `AutoStatAgent_Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen151
+\scratchbox=\box54
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen152
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+0.
+ (C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+0.
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+20.
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+20.
+
+(C:\Users\hunza\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 20.
+ [1
+
+{C:/Users/hunza/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/hunz
+a/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 34--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--53
+
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 H₀
+         : H₀: There is no correlation between 'original\_price' and 'curr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 H₀: H₀
+               : There is no correlation between 'original\_price' and 'curr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 H₁
+         : H₁: There is a correlation between 'original\_price' and 'curre...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 H₁: H₁
+               : There is a correlation between 'original\_price' and 'curre...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (53.75375pt too wide) in paragraph at lines 65--65
+[]\T1/lmr/bx/n/12 Does the mod-er-ate Spear-man cor-re-la-tion (r=-0.36) be-twe
+en 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 H₀
+         : H₀: There is no correlation between 'markdown\_percentage' and ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 H₀: H₀
+               : There is no correlation between 'markdown\_percentage' and ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 H₁
+         : H₁: There is a correlation between 'markdown\_percentage' and '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 H₁: H₁
+               : There is a correlation between 'markdown\_percentage' and '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (19.85974pt too wide) in paragraph at lines 78--78
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'orig-i-nal_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 H₀
+         : H₀: The distribution of 'original\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 H₀: H₀
+               : The distribution of 'original\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 H₁
+         : H₁: At least one group distribution of 'original\_price' in 'ca...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 H₁: H₁
+               : At least one group distribution of 'original\_price' in 'ca...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 H₀
+         : H₀: The distribution of 'markdown\_percentage' is the same acro...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 H₀: H₀
+               : The distribution of 'markdown\_percentage' is the same acro...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 H₁
+         : H₁: At least one group distribution of 'markdown\_percentage' i...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 H₁: H₁
+               : At least one group distribution of 'markdown\_percentage' i...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[2]
+Overfull \hbox (18.59622pt too wide) in paragraph at lines 94--94
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'cur-rent_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 H₀
+         : H₀: The distribution of 'current\_price' is the same across all...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 H₀: H₀
+               : The distribution of 'current\_price' is the same across all...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 H₁
+         : H₁: At least one group distribution of 'current\_price' in 'cat...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 H₁: H₁
+               : At least one group distribution of 'current\_price' in 'cat...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (26.37175pt too wide) in paragraph at lines 102--102
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 H₀
+          : H₀: The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 H₀: H₀
+                : The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 H₁
+          : H₁: At least one group distribution of 'stock\_quantity' in 'c...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 H₁: H₁
+                : At least one group distribution of 'stock\_quantity' in 'c...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (35.68472pt too wide) in paragraph at lines 110--110
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 H₀
+          : H₀: The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 H₀: H₀
+                : The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 H₁
+          : H₁: At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 H₁: H₁
+                : At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (4.32475pt too wide) in paragraph at lines 118--118
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'orig-i-nal_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 H₀
+          : H₀: The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 H₀: H₀
+                : The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 H₁
+          : H₁: At least one group distribution of 'original\_price' in 'b...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 H₁: H₁
+                : At least one group distribution of 'original\_price' in 'b...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (62.95723pt too wide) in paragraph at lines 126--126
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 H₀
+          : H₀: The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 H₀: H₀
+                : The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 H₁
+          : H₁: At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 H₁: H₁
+                : At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (9.81123pt too wide) in paragraph at lines 134--134
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'cur-rent_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 H₀
+          : H₀: The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 H₀: H₀
+                : The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 H₁
+          : H₁: At least one group distribution of 'current\_price' in 'br...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 H₁: H₁
+                : At least one group distribution of 'current\_price' in 'br...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[3]
+Overfull \hbox (17.58676pt too wide) in paragraph at lines 142--142
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 H₀
+          : H₀: The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 H₀: H₀
+                : The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 H₁
+          : H₁: At least one group distribution of 'stock\_quantity' in 'b...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 H₁: H₁
+                : At least one group distribution of 'stock\_quantity' in 'b...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (26.89973pt too wide) in paragraph at lines 150--150
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 H₀
+          : H₀: The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 H₀: H₀
+                : The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 H₁
+          : H₁: At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 H₁: H₁
+                : At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (14.12071pt too wide) in paragraph at lines 158--158
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'orig-i-nal_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 H₀
+          : H₀: The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 H₀: H₀
+                : The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 H₁
+          : H₁: At least one group distribution of 'original\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 H₁: H₁
+                : At least one group distribution of 'original\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (66.00319pt too wide) in paragraph at lines 166--166
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 H₀
+          : H₀: The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.169 H₀: H₀
+                : The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 H₁
+          : H₁: At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 H₁: H₁
+                : At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (12.8572pt too wide) in paragraph at lines 174--174
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'cur-rent_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 H₀
+          : H₀: The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.177 H₀: H₀
+                : The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 H₁
+          : H₁: At least one group distribution of 'current\_price' in 'se...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 H₁: H₁
+                : At least one group distribution of 'current\_price' in 'se...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (20.63272pt too wide) in paragraph at lines 182--182
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 H₀
+          : H₀: The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 H₀: H₀
+                : The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 H₁
+          : H₁: At least one group distribution of 'stock\_quantity' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 H₁: H₁
+                : At least one group distribution of 'stock\_quantity' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[4]
+Overfull \hbox (29.9457pt too wide) in paragraph at lines 190--190
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 H₀
+          : H₀: The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 H₀: H₀
+                : The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 H₁
+          : H₁: At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 H₁: H₁
+                : At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 H₀
+          : H₀: The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 H₀: H₀
+                : The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 H₁
+          : H₁: At least one group distribution of 'original\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 H₁: H₁
+                : At least one group distribution of 'original\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (49.6157pt too wide) in paragraph at lines 206--206
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'size' cat-e-gories show sig-nif-i-cant dif-fe
+r-ences in 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209 H₀
+          : H₀: The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209 H₀: H₀
+                : The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 H₁
+          : H₁: At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 H₁: H₁
+                : At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.217 H₀
+          : H₀: The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.217 H₀: H₀
+                : The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 H₁
+          : H₁: At least one group distribution of 'current\_price' in 'si...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 H₁: H₁
+                : At least one group distribution of 'current\_price' in 'si...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (4.24524pt too wide) in paragraph at lines 222--222
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'size' cat-e-gories show sig-nif-i-cant dif-fe
+r-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.225 H₀
+          : H₀: The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.225 H₀: H₀
+                : The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 H₁
+          : H₁: At least one group distribution of 'stock\_quantity' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 H₁: H₁
+                : At least one group distribution of 'stock\_quantity' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (13.55821pt too wide) in paragraph at lines 230--230
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'size' cat-e-gories show sig-nif-i-cant dif-fe
+r-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.233 H₀
+          : H₀: The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.233 H₀: H₀
+                : The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 H₁
+          : H₁: At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 H₁: H₁
+                : At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[5]
+Overfull \hbox (2.01122pt too wide) in paragraph at lines 238--238
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 're-turn_reason' cat-e-gories show sig-nif-i-c
+ant dif-fer-ences in 'orig-
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.241 H₀
+          : H₀: The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.241 H₀: H₀
+                : The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242 H₁
+          : H₁: At least one group distribution of 'original\_price' in 'r...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242 H₁: H₁
+                : At least one group distribution of 'original\_price' in 'r...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (9.69872pt too wide) in paragraph at lines 246--246
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 're-turn_reason' cat-e-gories show sig-nif-i-c
+ant dif-fer-ences in 'mark-
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 H₀
+          : H₀: The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 H₀: H₀
+                : The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.250 H₁
+          : H₁: At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.250 H₁: H₁
+                : At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 H₀
+          : H₀: The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 H₀: H₀
+                : The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 H₁
+          : H₁: At least one group distribution of 'current\_price' in 're...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 H₁: H₁
+                : At least one group distribution of 'current\_price' in 're...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (68.45369pt too wide) in paragraph at lines 262--262
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 're-turn_reason' cat-e-gories show sig-nif-i-c
+ant dif-fer-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.265 H₀
+          : H₀: The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.265 H₀: H₀
+                : The distribution of 'stock\_quantity' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 H₁
+          : H₁: At least one group distribution of 'stock\_quantity' in 'r...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.266 H₁: H₁
+                : At least one group distribution of 'stock\_quantity' in 'r...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273 H₀
+          : H₀: The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273 H₀: H₀
+                : The distribution of 'customer\_rating' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.274 H₁
+          : H₁: At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.274 H₁: H₁
+                : At least one group distribution of 'customer\_rating' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281 H₀
+          : H₀: 'category' and 'brand' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.281 H₀: H₀
+                : 'category' and 'brand' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282 H₁
+          : H₁: 'category' and 'brand' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.282 H₁: H₁
+                : 'category' and 'brand' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[6]
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 H₀
+          : H₀: 'category' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 H₀: H₀
+                : 'category' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 H₁
+          : H₁: 'category' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 H₁: H₁
+                : 'category' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.297 H₀
+          : H₀: 'category' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.297 H₀: H₀
+                : 'category' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 H₁
+          : H₁: 'category' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 H₁: H₁
+                : 'category' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 H₀
+          : H₀: 'category' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 H₀: H₀
+                : 'category' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.306 H₁
+          : H₁: 'category' and 'return\_reason' are not independent.\newline%
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.306 H₁: H₁
+                : 'category' and 'return\_reason' are not independent.\newline%
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 H₀
+          : H₀: 'brand' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 H₀: H₀
+                : 'brand' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 H₁
+          : H₁: 'brand' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 H₁: H₁
+                : 'brand' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321 H₀
+          : H₀: 'brand' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321 H₀: H₀
+                : 'brand' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 H₁
+          : H₁: 'brand' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 H₁: H₁
+                : 'brand' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 H₀
+          : H₀: 'brand' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.329 H₀: H₀
+                : 'brand' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.330 H₁
+          : H₁: 'brand' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.330 H₁: H₁
+                : 'brand' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[7]
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.337 H₀
+          : H₀: 'season' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.337 H₀: H₀
+                : 'season' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 H₁
+          : H₁: 'season' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 H₁: H₁
+                : 'season' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 H₀
+          : H₀: 'season' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 H₀: H₀
+                : 'season' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.346 H₁
+          : H₁: 'season' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.346 H₁: H₁
+                : 'season' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.353 H₀
+          : H₀: 'size' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.353 H₀: H₀
+                : 'size' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.354 H₁
+          : H₁: 'size' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.354 H₁: H₁
+                : 'size' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<output/plots/original_price_hist.png, id=29, 419.166pt x 327.3831pt>
+File: output/plots/original_price_hist.png Graphic file (type png)
+<use output/plots/original_price_hist.png>
+Package pdftex.def Info: output/plots/original_price_hist.png  used on input li
+ne 370.
+(pdftex.def)             Requested size: 225.4804pt x 176.10985pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 375.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 375.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 375.
+<output/plots/original_price_box.png, id=31, 349.7868pt x 226.9278pt>
+File: output/plots/original_price_box.png Graphic file (type png)
+<use output/plots/original_price_box.png>
+Package pdftex.def Info: output/plots/original_price_box.png  used on input lin
+e 381.
+(pdftex.def)             Requested size: 225.4804pt x 146.28246pt.
+<output/plots/markdown_percentage_hist.png, id=32, 419.166pt x 327.3831pt>
+File: output/plots/markdown_percentage_hist.png Graphic file (type png)
+<use output/plots/markdown_percentage_hist.png>
+Package pdftex.def Info: output/plots/markdown_percentage_hist.png  used on inp
+ut line 394.
+(pdftex.def)             Requested size: 225.4804pt x 176.10985pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--395
+[]\T1/lmr/m/n/10 Figure 3: Vi-su-al-iza-tion: mark-
+ []
+
+<output/plots/markdown_percentage_box.png, id=33, 349.7868pt x 226.9278pt>
+File: output/plots/markdown_percentage_box.png Graphic file (type png)
+<use output/plots/markdown_percentage_box.png>
+Package pdftex.def Info: output/plots/markdown_percentage_box.png  used on inpu
+t line 405.
+(pdftex.def)             Requested size: 225.4804pt x 146.28246pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--406
+[]\T1/lmr/m/n/10 Figure 4: Vi-su-al-iza-tion: mark-
+ []
+
+<output/plots/current_price_hist.png, id=34, 419.166pt x 327.3831pt>
+File: output/plots/current_price_hist.png Graphic file (type png)
+<use output/plots/current_price_hist.png>
+Package pdftex.def Info: output/plots/current_price_hist.png  used on input lin
+e 418.
+(pdftex.def)             Requested size: 225.4804pt x 176.10985pt.
+<output/plots/current_price_box.png, id=35, 349.7868pt x 226.9278pt>
+File: output/plots/current_price_box.png Graphic file (type png)
+<use output/plots/current_price_box.png>
+Package pdftex.def Info: output/plots/current_price_box.png  used on input line
+ 429.
+(pdftex.def)             Requested size: 225.4804pt x 146.28246pt.
+<output/plots/stock_quantity_hist.png, id=36, 419.166pt x 327.3831pt>
+File: output/plots/stock_quantity_hist.png Graphic file (type png)
+<use output/plots/stock_quantity_hist.png>
+Package pdftex.def Info: output/plots/stock_quantity_hist.png  used on input li
+ne 442.
+(pdftex.def)             Requested size: 225.4804pt x 176.10985pt.
+<output/plots/stock_quantity_box.png, id=37, 349.7868pt x 226.9278pt>
+File: output/plots/stock_quantity_box.png Graphic file (type png)
+<use output/plots/stock_quantity_box.png>
+Package pdftex.def Info: output/plots/stock_quantity_box.png  used on input lin
+e 453.
+(pdftex.def)             Requested size: 225.4804pt x 146.28246pt.
+<output/plots/customer_rating_hist.png, id=38, 407.6028pt x 327.3831pt>
+File: output/plots/customer_rating_hist.png Graphic file (type png)
+<use output/plots/customer_rating_hist.png>
+Package pdftex.def Info: output/plots/customer_rating_hist.png  used on input l
+ine 466.
+(pdftex.def)             Requested size: 225.4804pt x 181.1053pt.
+<output/plots/customer_rating_box.png, id=39, 349.7868pt x 226.9278pt>
+File: output/plots/customer_rating_box.png Graphic file (type png)
+<use output/plots/customer_rating_box.png>
+Package pdftex.def Info: output/plots/customer_rating_box.png  used on input li
+ne 477.
+(pdftex.def)             Requested size: 225.4804pt x 146.28246pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+[]\T1/lmr/m/n/10 Figure 10: Vi-su-al-iza-tion: cus-
+ []
+
+<output/plots/is_returned_hist.png, id=40, 404.712pt x 327.3831pt>
+File: output/plots/is_returned_hist.png Graphic file (type png)
+<use output/plots/is_returned_hist.png>
+Package pdftex.def Info: output/plots/is_returned_hist.png  used on input line 
+490.
+(pdftex.def)             Requested size: 225.4804pt x 182.39912pt.
+<output/plots/is_returned_box.png, id=41, 349.7868pt x 226.9278pt>
+File: output/plots/is_returned_box.png Graphic file (type png)
+<use output/plots/is_returned_box.png>
+Package pdftex.def Info: output/plots/is_returned_box.png  used on input line 5
+01.
+(pdftex.def)             Requested size: 225.4804pt x 146.28246pt.
+<output/plots/correlation_heatmap.png, id=42, 452.4102pt x 471.9231pt>
+File: output/plots/correlation_heatmap.png Graphic file (type png)
+<use output/plots/correlation_heatmap.png>
+Package pdftex.def Info: output/plots/correlation_heatmap.png  used on input li
+ne 514.
+(pdftex.def)             Requested size: 225.4804pt x 235.20486pt.
+<output/plots/current_price_vs_original_price_scatter.png, id=43, 388.0899pt x 
+282.5757pt>
+File: output/plots/current_price_vs_original_price_scatter.png Graphic file (ty
+pe png)
+<use output/plots/current_price_vs_original_price_scatter.png>
+Package pdftex.def Info: output/plots/current_price_vs_original_price_scatter.p
+ng  used on input line 525.
+(pdftex.def)             Requested size: 225.4804pt x 164.17859pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
+[]\T1/lmr/m/n/10 Figure 14: Vi-su-al-iza-tion: cur-
+ []
+
+<output/plots/current_price_vs_markdown_percentage_scatter.png, id=44, 382.3083
+pt x 282.5757pt>
+File: output/plots/current_price_vs_markdown_percentage_scatter.png Graphic fil
+e (type png)
+<use output/plots/current_price_vs_markdown_percentage_scatter.png>
+Package pdftex.def Info: output/plots/current_price_vs_markdown_percentage_scat
+ter.png  used on input line 538.
+(pdftex.def)             Requested size: 225.4804pt x 166.66216pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--539
+[]\T1/lmr/m/n/10 Figure 15: Vi-su-al-iza-tion: cur-
+ []
+
+
+Overfull \hbox (0.60338pt too wide) in paragraph at lines 539--539
+\T1/lmr/m/n/10 rent_price_vs_markdown_percentage_scatter.png 
+ []
+
+<output/plots/original_price_by_category_box.png, id=45, 570.933pt x 281.853pt>
+
+File: output/plots/original_price_by_category_box.png Graphic file (type png)
+<use output/plots/original_price_by_category_box.png>
+Package pdftex.def Info: output/plots/original_price_by_category_box.png  used 
+on input line 549.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]\T1/lmr/m/n/10 Figure 16: Vi-su-al-iza-tion: orig-i-
+ []
+
+<output/plots/original_price_by_brand_box.png, id=46, 570.933pt x 281.853pt>
+File: output/plots/original_price_by_brand_box.png Graphic file (type png)
+<use output/plots/original_price_by_brand_box.png>
+Package pdftex.def Info: output/plots/original_price_by_brand_box.png  used on 
+input line 562.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
+[]\T1/lmr/m/n/10 Figure 17: Vi-su-al-iza-tion: orig-i-
+ []
+
+<output/plots/original_price_by_season_box.png, id=47, 570.933pt x 281.853pt>
+File: output/plots/original_price_by_season_box.png Graphic file (type png)
+<use output/plots/original_price_by_season_box.png>
+Package pdftex.def Info: output/plots/original_price_by_season_box.png  used on
+ input line 573.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--574
+[]\T1/lmr/m/n/10 Figure 18: Vi-su-al-iza-tion: orig-i-
+ []
+
+<output/plots/original_price_by_size_box.png, id=48, 570.933pt x 281.853pt>
+File: output/plots/original_price_by_size_box.png Graphic file (type png)
+<use output/plots/original_price_by_size_box.png>
+Package pdftex.def Info: output/plots/original_price_by_size_box.png  used on i
+nput line 586.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
+[]\T1/lmr/m/n/10 Figure 19: Vi-su-al-iza-tion: orig-i-
+ []
+
+<output/plots/original_price_by_return_reason_box.png, id=49, 570.933pt x 281.8
+53pt>
+File: output/plots/original_price_by_return_reason_box.png Graphic file (type p
+ng)
+<use output/plots/original_price_by_return_reason_box.png>
+Package pdftex.def Info: output/plots/original_price_by_return_reason_box.png  
+used on input line 597.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--598
+[]\T1/lmr/m/n/10 Figure 20: Vi-su-al-iza-tion: orig-i-
+ []
+
+<output/plots/markdown_percentage_by_category_box.png, id=50, 570.933pt x 281.8
+53pt>
+File: output/plots/markdown_percentage_by_category_box.png Graphic file (type p
+ng)
+<use output/plots/markdown_percentage_by_category_box.png>
+Package pdftex.def Info: output/plots/markdown_percentage_by_category_box.png  
+used on input line 610.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--611
+[]\T1/lmr/m/n/10 Figure 21: Vi-su-al-iza-tion: mark-
+ []
+
+<output/plots/markdown_percentage_by_brand_box.png, id=51, 570.933pt x 281.853p
+t>
+File: output/plots/markdown_percentage_by_brand_box.png Graphic file (type png)
+
+<use output/plots/markdown_percentage_by_brand_box.png>
+Package pdftex.def Info: output/plots/markdown_percentage_by_brand_box.png  use
+d on input line 621.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]\T1/lmr/m/n/10 Figure 22: Vi-su-al-iza-tion: mark-
+ []
+
+<output/plots/markdown_percentage_by_season_box.png, id=52, 570.933pt x 281.853
+pt>
+File: output/plots/markdown_percentage_by_season_box.png Graphic file (type png
+)
+<use output/plots/markdown_percentage_by_season_box.png>
+Package pdftex.def Info: output/plots/markdown_percentage_by_season_box.png  us
+ed on input line 634.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 635--635
+[]\T1/lmr/m/n/10 Figure 23: Vi-su-al-iza-tion: mark-
+ []
+
+<output/plots/markdown_percentage_by_size_box.png, id=53, 570.933pt x 281.853pt
+>
+File: output/plots/markdown_percentage_by_size_box.png Graphic file (type png)
+<use output/plots/markdown_percentage_by_size_box.png>
+Package pdftex.def Info: output/plots/markdown_percentage_by_size_box.png  used
+ on input line 645.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
+[]\T1/lmr/m/n/10 Figure 24: Vi-su-al-iza-tion: mark-
+ []
+
+<output/plots/markdown_percentage_by_return_reason_box.png, id=54, 570.933pt x 
+281.853pt>
+File: output/plots/markdown_percentage_by_return_reason_box.png Graphic file (t
+ype png)
+<use output/plots/markdown_percentage_by_return_reason_box.png>
+Package pdftex.def Info: output/plots/markdown_percentage_by_return_reason_box.
+png  used on input line 658.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--659
+[]\T1/lmr/m/n/10 Figure 25: Vi-su-al-iza-tion: mark-
+ []
+
+<output/plots/current_price_by_category_box.png, id=55, 570.933pt x 281.853pt>
+File: output/plots/current_price_by_category_box.png Graphic file (type png)
+<use output/plots/current_price_by_category_box.png>
+Package pdftex.def Info: output/plots/current_price_by_category_box.png  used o
+n input line 669.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--670
+[]\T1/lmr/m/n/10 Figure 26: Vi-su-al-iza-tion: cur-
+ []
+
+<output/plots/current_price_by_brand_box.png, id=56, 570.933pt x 281.853pt>
+File: output/plots/current_price_by_brand_box.png Graphic file (type png)
+<use output/plots/current_price_by_brand_box.png>
+Package pdftex.def Info: output/plots/current_price_by_brand_box.png  used on i
+nput line 682.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--683
+[]\T1/lmr/m/n/10 Figure 27: Vi-su-al-iza-tion: cur-
+ []
+
+<output/plots/current_price_by_season_box.png, id=57, 570.933pt x 281.853pt>
+File: output/plots/current_price_by_season_box.png Graphic file (type png)
+<use output/plots/current_price_by_season_box.png>
+Package pdftex.def Info: output/plots/current_price_by_season_box.png  used on 
+input line 693.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--694
+[]\T1/lmr/m/n/10 Figure 28: Vi-su-al-iza-tion: cur-
+ []
+
+<output/plots/current_price_by_size_box.png, id=58, 570.933pt x 281.853pt>
+File: output/plots/current_price_by_size_box.png Graphic file (type png)
+<use output/plots/current_price_by_size_box.png>
+Package pdftex.def Info: output/plots/current_price_by_size_box.png  used on in
+put line 706.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--707
+[]\T1/lmr/m/n/10 Figure 29: Vi-su-al-iza-tion: cur-
+ []
+
+<output/plots/current_price_by_return_reason_box.png, id=59, 570.933pt x 281.85
+3pt>
+File: output/plots/current_price_by_return_reason_box.png Graphic file (type pn
+g)
+<use output/plots/current_price_by_return_reason_box.png>
+Package pdftex.def Info: output/plots/current_price_by_return_reason_box.png  u
+sed on input line 717.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--718
+[]\T1/lmr/m/n/10 Figure 30: Vi-su-al-iza-tion: cur-
+ []
+
+<output/plots/stock_quantity_by_category_box.png, id=60, 570.933pt x 281.853pt>
+
+File: output/plots/stock_quantity_by_category_box.png Graphic file (type png)
+<use output/plots/stock_quantity_by_category_box.png>
+Package pdftex.def Info: output/plots/stock_quantity_by_category_box.png  used 
+on input line 730.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]\T1/lmr/m/n/10 Figure 31: Vi-su-al-iza-tion:
+ []
+
+<output/plots/stock_quantity_by_brand_box.png, id=61, 570.933pt x 281.853pt>
+File: output/plots/stock_quantity_by_brand_box.png Graphic file (type png)
+<use output/plots/stock_quantity_by_brand_box.png>
+Package pdftex.def Info: output/plots/stock_quantity_by_brand_box.png  used on 
+input line 741.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--742
+[]\T1/lmr/m/n/10 Figure 32: Vi-su-al-iza-tion:
+ []
+
+<output/plots/stock_quantity_by_season_box.png, id=62, 570.933pt x 281.853pt>
+File: output/plots/stock_quantity_by_season_box.png Graphic file (type png)
+<use output/plots/stock_quantity_by_season_box.png>
+Package pdftex.def Info: output/plots/stock_quantity_by_season_box.png  used on
+ input line 754.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--755
+[]\T1/lmr/m/n/10 Figure 33: Vi-su-al-iza-tion:
+ []
+
+<output/plots/stock_quantity_by_size_box.png, id=63, 570.933pt x 281.853pt>
+File: output/plots/stock_quantity_by_size_box.png Graphic file (type png)
+<use output/plots/stock_quantity_by_size_box.png>
+Package pdftex.def Info: output/plots/stock_quantity_by_size_box.png  used on i
+nput line 765.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 766--766
+[]\T1/lmr/m/n/10 Figure 34: Vi-su-al-iza-tion:
+ []
+
+<output/plots/stock_quantity_by_return_reason_box.png, id=64, 570.933pt x 281.8
+53pt>
+File: output/plots/stock_quantity_by_return_reason_box.png Graphic file (type p
+ng)
+<use output/plots/stock_quantity_by_return_reason_box.png>
+Package pdftex.def Info: output/plots/stock_quantity_by_return_reason_box.png  
+used on input line 778.
+(pdftex.def)             Requested size: 225.4804pt x 111.31136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 779--779
+[]\T1/lmr/m/n/10 Figure 35: Vi-su-al-iza-tion:
+ []
+
+<output/plots/category_vs_brand_heatmap.png, id=65, 398.9304pt x 354.123pt>
+File: output/plots/category_vs_brand_heatmap.png Graphic file (type png)
+<use output/plots/category_vs_brand_heatmap.png>
+Package pdftex.def Info: output/plots/category_vs_brand_heatmap.png  used on in
+put line 789.
+(pdftex.def)             Requested size: 225.4804pt x 200.1555pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--790
+[]\T1/lmr/m/n/10 Figure 36: Vi-su-al-iza-tion: cat-e-
+ []
+
+<output/plots/category_vs_season_heatmap.png, id=66, 407.6028pt x 354.123pt>
+File: output/plots/category_vs_season_heatmap.png Graphic file (type png)
+<use output/plots/category_vs_season_heatmap.png>
+Package pdftex.def Info: output/plots/category_vs_season_heatmap.png  used on i
+nput line 802.
+(pdftex.def)             Requested size: 225.4804pt x 195.89757pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+[]\T1/lmr/m/n/10 Figure 37: Vi-su-al-iza-tion: cat-e-
+ []
+
+<output/plots/category_vs_size_heatmap.png, id=67, 407.6028pt x 354.123pt>
+File: output/plots/category_vs_size_heatmap.png Graphic file (type png)
+<use output/plots/category_vs_size_heatmap.png>
+Package pdftex.def Info: output/plots/category_vs_size_heatmap.png  used on inp
+ut line 813.
+(pdftex.def)             Requested size: 225.4804pt x 195.89757pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 814--814
+[]\T1/lmr/m/n/10 Figure 38: Vi-su-al-iza-tion: cat-e-
+ []
+
+<output/plots/category_vs_return_reason_heatmap.png, id=68, 404.712pt x 354.123
+pt>
+File: output/plots/category_vs_return_reason_heatmap.png Graphic file (type png
+)
+<use output/plots/category_vs_return_reason_heatmap.png>
+Package pdftex.def Info: output/plots/category_vs_return_reason_heatmap.png  us
+ed on input line 826.
+(pdftex.def)             Requested size: 225.4804pt x 197.29706pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 827--827
+[]\T1/lmr/m/n/10 Figure 39: Vi-su-al-iza-tion: cat-e-
+ []
+
+<output/plots/brand_vs_season_heatmap.png, id=69, 411.2163pt x 354.123pt>
+File: output/plots/brand_vs_season_heatmap.png Graphic file (type png)
+<use output/plots/brand_vs_season_heatmap.png>
+Package pdftex.def Info: output/plots/brand_vs_season_heatmap.png  used on inpu
+t line 837.
+(pdftex.def)             Requested size: 225.4804pt x 194.17926pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--838
+[]\T1/lmr/m/n/10 Figure 40: Vi-su-al-iza-tion:
+ []
+
+<output/plots/brand_vs_size_heatmap.png, id=70, 416.9979pt x 354.123pt>
+File: output/plots/brand_vs_size_heatmap.png Graphic file (type png)
+<use output/plots/brand_vs_size_heatmap.png>
+Package pdftex.def Info: output/plots/brand_vs_size_heatmap.png  used on input 
+line 850.
+(pdftex.def)             Requested size: 225.4804pt x 191.48293pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 851--851
+[]\T1/lmr/m/n/10 Figure 41: Vi-su-al-iza-tion:
+ []
+
+<output/plots/brand_vs_return_reason_heatmap.png, id=71, 414.1071pt x 354.123pt
+>
+File: output/plots/brand_vs_return_reason_heatmap.png Graphic file (type png)
+<use output/plots/brand_vs_return_reason_heatmap.png>
+Package pdftex.def Info: output/plots/brand_vs_return_reason_heatmap.png  used 
+on input line 861.
+(pdftex.def)             Requested size: 225.4804pt x 192.82298pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]\T1/lmr/m/n/10 Figure 42: Vi-su-al-iza-tion:
+ []
+
+<output/plots/season_vs_size_heatmap.png, id=72, 407.6028pt x 354.123pt>
+File: output/plots/season_vs_size_heatmap.png Graphic file (type png)
+<use output/plots/season_vs_size_heatmap.png>
+Package pdftex.def Info: output/plots/season_vs_size_heatmap.png  used on input
+ line 874.
+(pdftex.def)             Requested size: 225.4804pt x 195.89757pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 875--875
+[]\T1/lmr/m/n/10 Figure 43: Vi-su-al-iza-tion: sea-
+ []
+
+<output/plots/season_vs_return_reason_heatmap.png, id=73, 404.712pt x 354.123pt
+>
+File: output/plots/season_vs_return_reason_heatmap.png Graphic file (type png)
+<use output/plots/season_vs_return_reason_heatmap.png>
+Package pdftex.def Info: output/plots/season_vs_return_reason_heatmap.png  used
+ on input line 885.
+(pdftex.def)             Requested size: 225.4804pt x 197.29706pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--886
+[]\T1/lmr/m/n/10 Figure 44: Vi-su-al-iza-tion: sea-
+ []
+
+<output/plots/size_vs_return_reason_heatmap.png, id=74, 404.712pt x 354.123pt>
+File: output/plots/size_vs_return_reason_heatmap.png Graphic file (type png)
+<use output/plots/size_vs_return_reason_heatmap.png>
+Package pdftex.def Info: output/plots/size_vs_return_reason_heatmap.png  used o
+n input line 898.
+(pdftex.def)             Requested size: 225.4804pt x 197.29706pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 899--899
+[]\T1/lmr/m/n/10 Figure 45: Vi-su-al-iza-tion:
+ []
+
+<output/plots/purchase_date_monthly_count.png, id=75, 570.933pt x 209.583pt>
+File: output/plots/purchase_date_monthly_count.png Graphic file (type png)
+<use output/plots/purchase_date_monthly_count.png>
+Package pdftex.def Info: output/plots/purchase_date_monthly_count.png  used on 
+input line 909.
+(pdftex.def)             Requested size: 225.4804pt x 82.76997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
+[]\T1/lmr/m/n/10 Figure 46: Vi-su-al-iza-tion: pur-
+ []
+
+<output/plots/original_price_monthly_mean_by_purchase_date.png, id=76, 570.933p
+t x 209.583pt>
+File: output/plots/original_price_monthly_mean_by_purchase_date.png Graphic fil
+e (type png)
+<use output/plots/original_price_monthly_mean_by_purchase_date.png>
+Package pdftex.def Info: output/plots/original_price_monthly_mean_by_purchase_d
+ate.png  used on input line 922.
+(pdftex.def)             Requested size: 225.4804pt x 82.76997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 923--923
+[]\T1/lmr/m/n/10 Figure 47: Vi-su-al-iza-tion: orig-i-
+ []
+
+<output/plots/markdown_percentage_monthly_mean_by_purchase_date.png, id=77, 570
+.933pt x 209.583pt>
+File: output/plots/markdown_percentage_monthly_mean_by_purchase_date.png Graphi
+c file (type png)
+<use output/plots/markdown_percentage_monthly_mean_by_purchase_date.png>
+Package pdftex.def Info: output/plots/markdown_percentage_monthly_mean_by_purch
+ase_date.png  used on input line 933.
+(pdftex.def)             Requested size: 225.4804pt x 82.76997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 934--934
+[]\T1/lmr/m/n/10 Figure 48: Vi-su-al-iza-tion: mark-
+ []
+
+
+Overfull \hbox (35.18576pt too wide) in paragraph at lines 934--934
+\T1/lmr/m/n/10 down_percentage_monthly_mean_by_purchase_date.png 
+ []
+
+<output/plots/current_price_monthly_mean_by_purchase_date.png, id=78, 570.933pt
+ x 209.583pt>
+File: output/plots/current_price_monthly_mean_by_purchase_date.png Graphic file
+ (type png)
+<use output/plots/current_price_monthly_mean_by_purchase_date.png>
+Package pdftex.def Info: output/plots/current_price_monthly_mean_by_purchase_da
+te.png  used on input line 946.
+(pdftex.def)             Requested size: 225.4804pt x 82.76997pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 947--947
+[]\T1/lmr/m/n/10 Figure 49: Vi-su-al-iza-tion: cur-
+ []
+
+
+Overfull \hbox (4.10269pt too wide) in paragraph at lines 947--947
+\T1/lmr/m/n/10 rent_price_monthly_mean_by_purchase_date.png 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--954
+
+ []
+
+[8 <./output/plots/original_price_hist.png> <./output/plots/original_price_box.
+png>] [9 <./output/plots/markdown_percentage_hist.png> <./output/plots/markdown
+_percentage_box.png> <./output/plots/current_price_hist.png> <./output/plots/cu
+rrent_price_box.png>] [10 <./output/plots/stock_quantity_hist.png> <./output/pl
+ots/stock_quantity_box.png> <./output/plots/customer_rating_hist.png> <./output
+/plots/customer_rating_box.png>] [11 <./output/plots/is_returned_hist.png> <./o
+utput/plots/is_returned_box.png> <./output/plots/correlation_heatmap.png> <./ou
+tput/plots/current_price_vs_original_price_scatter.png>] [12 <./output/plots/cu
+rrent_price_vs_markdown_percentage_scatter.png> <./output/plots/original_price_
+by_category_box.png> <./output/plots/original_price_by_brand_box.png> <./output
+/plots/original_price_by_season_box.png> <./output/plots/original_price_by_size
+_box.png> <./output/plots/original_price_by_return_reason_box.png>] [13 <./outp
+ut/plots/markdown_percentage_by_category_box.png> <./output/plots/markdown_perc
+entage_by_brand_box.png> <./output/plots/markdown_percentage_by_season_box.png>
+ <./output/plots/markdown_percentage_by_size_box.png> <./output/plots/markdown_
+percentage_by_return_reason_box.png> <./output/plots/current_price_by_category_
+box.png>] [14 <./output/plots/current_price_by_brand_box.png> <./output/plots/c
+urrent_price_by_season_box.png> <./output/plots/current_price_by_size_box.png> 
+<./output/plots/current_price_by_return_reason_box.png> <./output/plots/stock_q
+uantity_by_category_box.png> <./output/plots/stock_quantity_by_brand_box.png>]
+[15 <./output/plots/stock_quantity_by_season_box.png> <./output/plots/stock_qua
+ntity_by_size_box.png> <./output/plots/stock_quantity_by_return_reason_box.png>
+ <./output/plots/category_vs_brand_heatmap.png>] [16 <./output/plots/category_v
+s_season_heatmap.png> <./output/plots/category_vs_size_heatmap.png> <./output/p
+lots/category_vs_return_reason_heatmap.png> <./output/plots/brand_vs_season_hea
+tmap.png>] [17 <./output/plots/brand_vs_size_heatmap.png> <./output/plots/brand
+_vs_return_reason_heatmap.png> <./output/plots/season_vs_size_heatmap.png> <./o
+utput/plots/season_vs_return_reason_heatmap.png>]
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.961 H₀
+          : H₀: There is no correlation between 'original\_price' and 'cur...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.961 H₀: H₀
+                : There is no correlation between 'original\_price' and 'cur...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.962 H₁
+          : H₁: There is a correlation between 'original\_price' and 'curr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.962 H₁: H₁
+                : There is a correlation between 'original\_price' and 'curr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[18 <./output/plots/size_vs_return_reason_heatmap.png> <./output/plots/purchase
+_date_monthly_count.png> <./output/plots/original_price_monthly_mean_by_purchas
+e_date.png> <./output/plots/markdown_percentage_monthly_mean_by_purchase_date.p
+ng> <./output/plots/current_price_monthly_mean_by_purchase_date.png>]
+Overfull \hbox (53.75375pt too wide) in paragraph at lines 966--966
+[]\T1/lmr/bx/n/12 Does the mod-er-ate Spear-man cor-re-la-tion (r=-0.36) be-twe
+en 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.969 H₀
+          : H₀: There is no correlation between 'markdown\_percentage' and...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.969 H₀: H₀
+                : There is no correlation between 'markdown\_percentage' and...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.970 H₁
+          : H₁: There is a correlation between 'markdown\_percentage' and ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.970 H₁: H₁
+                : There is a correlation between 'markdown\_percentage' and ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (19.85974pt too wide) in paragraph at lines 974--974
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'orig-i-nal_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.977 H₀
+          : H₀: The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.977 H₀: H₀
+                : The distribution of 'original\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.978 H₁
+          : H₁: At least one group distribution of 'original\_price' in 'c...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.978 H₁: H₁
+                : At least one group distribution of 'original\_price' in 'c...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.985 H₀
+          : H₀: The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.985 H₀: H₀
+                : The distribution of 'markdown\_percentage' is the same acr...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.986 H₁
+          : H₁: At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.986 H₁: H₁
+                : At least one group distribution of 'markdown\_percentage' ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (18.59622pt too wide) in paragraph at lines 990--990
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'cur-rent_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.993 H₀
+          : H₀: The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.993 H₀: H₀
+                : The distribution of 'current\_price' is the same across al...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.994 H₁
+          : H₁: At least one group distribution of 'current\_price' in 'ca...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.994 H₁: H₁
+                : At least one group distribution of 'current\_price' in 'ca...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (26.37175pt too wide) in paragraph at lines 998--998
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1001 H₀
+           : H₀: The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1001 H₀: H₀
+                 : The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1002 H₁
+           : H₁: At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1002 H₁: H₁
+                 : At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[19]
+Overfull \hbox (35.68472pt too wide) in paragraph at lines 1006--1006
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'cat-e-gory' cat-e-gories show sig-nif-i-cant 
+dif-fer-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1009 H₀
+           : H₀: The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1009 H₀: H₀
+                 : The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1010 H₁
+           : H₁: At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1010 H₁: H₁
+                 : At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (4.32475pt too wide) in paragraph at lines 1014--1014
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'orig-i-nal_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1017 H₀
+           : H₀: The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1017 H₀: H₀
+                 : The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1018 H₁
+           : H₁: At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1018 H₁: H₁
+                 : At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (56.20723pt too wide) in paragraph at lines 1022--1022
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1025 H₀
+           : H₀: The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1025 H₀: H₀
+                 : The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1026 H₁
+           : H₁: At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1026 H₁: H₁
+                 : At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (9.81123pt too wide) in paragraph at lines 1030--1030
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'cur-rent_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1033 H₀
+           : H₀: The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1033 H₀: H₀
+                 : The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1034 H₁
+           : H₁: At least one group distribution of 'current\_price' in 'b...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1034 H₁: H₁
+                 : At least one group distribution of 'current\_price' in 'b...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (17.58676pt too wide) in paragraph at lines 1038--1038
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1041 H₀
+           : H₀: The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1041 H₀: H₀
+                 : The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1042 H₁
+           : H₁: At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1042 H₁: H₁
+                 : At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (26.89973pt too wide) in paragraph at lines 1046--1046
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'brand' cat-e-gories show sig-nif-i-cant dif-f
+er-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1049 H₀
+           : H₀: The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1049 H₀: H₀
+                 : The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1050 H₁
+           : H₁: At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1050 H₁: H₁
+                 : At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[20]
+Overfull \hbox (14.12071pt too wide) in paragraph at lines 1054--1054
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'orig-i-nal_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1057 H₀
+           : H₀: The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1057 H₀: H₀
+                 : The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1058 H₁
+           : H₁: At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1058 H₁: H₁
+                 : At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (66.00319pt too wide) in paragraph at lines 1062--1062
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1065 H₀
+           : H₀: The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1065 H₀: H₀
+                 : The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1066 H₁
+           : H₁: At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1066 H₁: H₁
+                 : At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (12.8572pt too wide) in paragraph at lines 1070--1070
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'cur-rent_price'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1073 H₀
+           : H₀: The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1073 H₀: H₀
+                 : The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1074 H₁
+           : H₁: At least one group distribution of 'current\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1074 H₁: H₁
+                 : At least one group distribution of 'current\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (20.63272pt too wide) in paragraph at lines 1078--1078
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1081 H₀
+           : H₀: The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1081 H₀: H₀
+                 : The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1082 H₁
+           : H₁: At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1082 H₁: H₁
+                 : At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (29.9457pt too wide) in paragraph at lines 1086--1086
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'sea-son' cat-e-gories show sig-nif-i-cant dif
+-fer-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1089 H₀
+           : H₀: The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1089 H₀: H₀
+                 : The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1090 H₁
+           : H₁: At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1090 H₁: H₁
+                 : At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1097 H₀
+           : H₀: The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1097 H₀: H₀
+                 : The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1098 H₁
+           : H₁: At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1098 H₁: H₁
+                 : At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[21]
+Overfull \hbox (49.6157pt too wide) in paragraph at lines 1102--1102
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'size' cat-e-gories show sig-nif-i-cant dif-fe
+r-ences in 'mark-down_percentage'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1105 H₀
+           : H₀: The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1105 H₀: H₀
+                 : The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1106 H₁
+           : H₁: At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1106 H₁: H₁
+                 : At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1113 H₀
+           : H₀: The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1113 H₀: H₀
+                 : The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1114 H₁
+           : H₁: At least one group distribution of 'current\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1114 H₁: H₁
+                 : At least one group distribution of 'current\_price' in 's...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (4.24524pt too wide) in paragraph at lines 1118--1118
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'size' cat-e-gories show sig-nif-i-cant dif-fe
+r-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1121 H₀
+           : H₀: The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1121 H₀: H₀
+                 : The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1122 H₁
+           : H₁: At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1122 H₁: H₁
+                 : At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (13.55821pt too wide) in paragraph at lines 1126--1126
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 'size' cat-e-gories show sig-nif-i-cant dif-fe
+r-ences in 'cus-tomer_rating'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1129 H₀
+           : H₀: The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1129 H₀: H₀
+                 : The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1130 H₁
+           : H₁: At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1130 H₁: H₁
+                 : At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (2.01122pt too wide) in paragraph at lines 1134--1134
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 're-turn_reason' cat-e-gories show sig-nif-i-c
+ant dif-fer-ences in 'orig-
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1137 H₀
+           : H₀: The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1137 H₀: H₀
+                 : The distribution of 'original\_price' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1138 H₁
+           : H₁: At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1138 H₁: H₁
+                 : At least one group distribution of 'original\_price' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (9.69872pt too wide) in paragraph at lines 1142--1142
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 're-turn_reason' cat-e-gories show sig-nif-i-c
+ant dif-fer-ences in 'mark-
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1145 H₀
+           : H₀: The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1145 H₀: H₀
+                 : The distribution of 'markdown\_percentage' is the same ac...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1146 H₁
+           : H₁: At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1146 H₁: H₁
+                 : At least one group distribution of 'markdown\_percentage'...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[22]
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1153 H₀
+           : H₀: The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1153 H₀: H₀
+                 : The distribution of 'current\_price' is the same across a...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1154 H₁
+           : H₁: At least one group distribution of 'current\_price' in 'r...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1154 H₁: H₁
+                 : At least one group distribution of 'current\_price' in 'r...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (68.45369pt too wide) in paragraph at lines 1158--1158
+[]\T1/lmr/bx/n/12 Do dif-fer-ent 're-turn_reason' cat-e-gories show sig-nif-i-c
+ant dif-fer-ences in 'stock_quantity'
+ []
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1161 H₀
+           : H₀: The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1161 H₀: H₀
+                 : The distribution of 'stock\_quantity' is the same across ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1162 H₁
+           : H₁: At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1162 H₁: H₁
+                 : At least one group distribution of 'stock\_quantity' in '...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1169 H₀
+           : H₀: The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1169 H₀: H₀
+                 : The distribution of 'customer\_rating' is the same across...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1170 H₁
+           : H₁: At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1170 H₁: H₁
+                 : At least one group distribution of 'customer\_rating' in ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1177 H₀
+           : H₀: 'category' and 'brand' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1177 H₀: H₀
+                 : 'category' and 'brand' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1178 H₁
+           : H₁: 'category' and 'brand' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1178 H₁: H₁
+                 : 'category' and 'brand' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1185 H₀
+           : H₀: 'category' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1185 H₀: H₀
+                 : 'category' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1186 H₁
+           : H₁: 'category' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1186 H₁: H₁
+                 : 'category' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1193 H₀
+           : H₀: 'category' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1193 H₀: H₀
+                 : 'category' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1194 H₁
+           : H₁: 'category' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1194 H₁: H₁
+                 : 'category' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[23]
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1201 H₀
+           : H₀: 'category' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1201 H₀: H₀
+                 : 'category' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1202 H₁
+           : H₁: 'category' and 'return\_reason' are not independent.\newl...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1202 H₁: H₁
+                 : 'category' and 'return\_reason' are not independent.\newl...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1209 H₀
+           : H₀: 'brand' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1209 H₀: H₀
+                 : 'brand' and 'season' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1210 H₁
+           : H₁: 'brand' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1210 H₁: H₁
+                 : 'brand' and 'season' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1217 H₀
+           : H₀: 'brand' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1217 H₀: H₀
+                 : 'brand' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1218 H₁
+           : H₁: 'brand' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1218 H₁: H₁
+                 : 'brand' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1225 H₀
+           : H₀: 'brand' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1225 H₀: H₀
+                 : 'brand' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1226 H₁
+           : H₁: 'brand' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1226 H₁: H₁
+                 : 'brand' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1233 H₀
+           : H₀: 'season' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1233 H₀: H₀
+                 : 'season' and 'size' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1234 H₁
+           : H₁: 'season' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1234 H₁: H₁
+                 : 'season' and 'size' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1241 H₀
+           : H₀: 'season' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1241 H₀: H₀
+                 : 'season' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1242 H₁
+           : H₁: 'season' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1242 H₁: H₁
+                 : 'season' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[24]
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1249 H₀
+           : H₀: 'size' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₀ (U+2080)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1249 H₀: H₀
+                 : 'size' and 'return\_reason' are independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1250 H₁
+           : H₁: 'size' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ₁ (U+2081)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1250 H₁: H₁
+                 : 'size' and 'return\_reason' are not independent.\newline%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Package lastpage Warning: Rerun to get the references right on input line 1254.
+
+
+
+AED: lastpage setting LastPage
+[25] (AutoStatAgent_Report.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2929 strings out of 474486
+ 65790 string characters out of 5743756
+ 1944542 words of memory out of 5000000
+ 25180 multiletter control sequences out of 15000+600000
+ 601637 words of font info for 63 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,8n,65p,598b,280s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/hunza/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
+b><C:/Users/hunza/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
+b><C:/Users/hunza/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
+><C:/Users/hunza/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+<C:/Users/hunza/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
+Output written on AutoStatAgent_Report.pdf (25 pages, 1250656 bytes).
+PDF statistics:
+ 208 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+

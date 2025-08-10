@@ -1,0 +1,81 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{booktabs}
+
+\title{AutoStatAgent Report}
+\author{}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Dataset Overview}
+
+\subsection{Shape}
+Rows: {{ shape[0] }}, Columns: {{ shape[1] }}
+
+\subsection{Data Types}
+\begin{longtable}{ l l }
+\toprule
+Column & Data Type \\
+\midrule
+{% for col, dtype in dtypes.items() %}
+{{ col }} & {{ dtype }} \\
+{% endfor %}
+\bottomrule
+\end{longtable}
+
+\subsection{Missing Values}
+\begin{longtable}{ l l }
+\toprule
+Column & Missing Values \\
+\midrule
+{% for col, miss in missing.items() %}
+{{ col }} & {{ miss }} \\
+{% endfor %}
+\bottomrule
+\end{longtable}
+
+\newpage
+
+{% if qa_pairs %}
+\section{Generated Questions and Answers}
+
+{% for q, a in qa_pairs[:max_questions] %}
+\subsubsection*{Question: {{ q }}}
+Answer: {{ a }}
+
+{% endfor %}
+\newpage
+{% endif %}
+
+{% if images %}
+\section{Visualizations}
+{% for name, path in images.items() %}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{ {{ path | replace('\\', '/') }} }
+    \caption{ {{ name }} }
+\end{figure}
+{% endfor %}
+\newpage
+{% endif %}
+
+{% if hypothesis_results %}
+\section{Hypothesis Test Results}
+{% for result in hypothesis_results %}
+\subsubsection*{}
+{{ result }}
+{% endfor %}
+{% endif %}
+
+\end{document}

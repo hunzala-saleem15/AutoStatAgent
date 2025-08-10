@@ -1,0 +1,12 @@
+pandas
+seaborn
+scipy
+statsmodels
+matplotlib
+jinja2
+pylatex
+pyreadstat
+chardet
+openpyxl
+streamlit
+streamlit-aggrid
